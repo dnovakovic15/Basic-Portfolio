@@ -129,6 +129,10 @@ footer{
     font-size: 10px;
 }
 
+#nav{
+    margin-right:130px;
+}
+
 #contact-content{
     width: 100%;
 }
